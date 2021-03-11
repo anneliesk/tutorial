@@ -1,4 +1,4 @@
-This is a poem called rainbows
+This is a poem called rainbows and unicorns
 
 colours
 
@@ -8,4 +8,6 @@ blue
 green
 orange
 yellow
+unicorn colors
+
 etc.......
