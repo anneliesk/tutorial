@@ -8,6 +8,8 @@ blue
 green
 orange
 yellow
+indigo
+
 unicorn colors
 
 etc.......
